@@ -122,4 +122,5 @@ shoppingCart.addEventListener("click", () => {
   dropDown.style.right === "-100%"
     ? (dropDown.style.right = "0")
     : (dropDown.style.right = "-100%");
+  dropDwon.style.display==="none"?(dropDown.style.display = "block"):(dropDown.style.display = "none");
 });
