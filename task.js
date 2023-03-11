@@ -1,4 +1,4 @@
-let cartsData = JSON.parse([localStorage.getItem("data")]);
+let cartsData = JSON.parse(localStorage.getItem("data"));
 // create data and store them into local storage
 function add() {
   let cartsData = [
