@@ -175,6 +175,7 @@ body {
   background-color: #fff;
   right: -100%;
   transition: 0.3s;
+  display: none;
 }
 .dropDown div {
   display: flex;
